@@ -6,6 +6,12 @@ This repository contains the basics of how to store your own workshop content.
 
 The step-by-step instructions below will assist you in setting up Jupyter for Visual Studio Code.
 
+Start by cloning this repository to your local machine. You can do this by running the following command in your terminal:
+
+```bash
+git clone https://github.com/d4vidsha/comp20008-workshops-demo.git
+```
+
 It is recommended that you use a virtual environment to install the required libraries. This can be done by running the following commands in your terminal if you're using a Unix-based system:
 
 ```bash
