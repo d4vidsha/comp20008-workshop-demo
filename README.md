@@ -2,6 +2,8 @@
 
 This repository contains the basics of how to store your own workshop content.
 
+---
+
 The step-by-step instructions below will assist you in setting up Jupyter for Visual Studio Code.
 
 It is recommended that you use a virtual environment to install the required libraries.
