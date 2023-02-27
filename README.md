@@ -6,7 +6,21 @@ This repository contains the basics of how to store your own workshop content.
 
 The step-by-step instructions below will assist you in setting up Jupyter for Visual Studio Code.
 
-It is recommended that you use a virtual environment to install the required libraries.
+It is recommended that you use a virtual environment to install the required libraries. This can be done by running the following commands in your terminal if you're using a Unix-based system:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+If you're using a Windows-based system:
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+If you are not using a virtual environment, you can still follow the steps below.
 
 1. Install required libraries for this subject. You can do this by running the following command in your terminal:
 
