@@ -12,6 +12,6 @@ It is recommended that you use a virtual environment to install the required lib
     pip install -r requirements.txt
     ```
 
-2. Install the VSCode extension called [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
+2. Install the [Jupyter VSCode extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
 
 3. Enjoy coding!
