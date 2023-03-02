@@ -24,7 +24,7 @@ If you're using a Windows-based system:
 
 ```bash
 python -m venv venv
-venv\scripts\activate
+venv\bin\activate
 ```
 
 If you are not using a virtual environment, you can still follow the steps below.
@@ -35,18 +35,20 @@ If you are not using a virtual environment, you can still follow the steps below
     pip install -r requirements.txt
     ```
 
-2. Install the [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) on VSCode.
+2. Install Jupyter using `pip` by following the instructions [here](https://jupyter.org/install.html).
 
-3. Open the week 1 Jupyter notebook in VSCode by running the following command in your terminal:
+3. Install the [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) on VSCode.
+
+4. Open the week 1 Jupyter notebook in VSCode by running the following command in your terminal:
 
     ```bash
     code .
     ```
 
-4. Open the Jupyter notebook by clicking on the `Workshop - Pandas.ipynb` file in the left sidebar.
+5. Open the Jupyter notebook by clicking on the `Workshop - Pandas.ipynb` file in the left sidebar.
 
-5. Click on the `Select Kernel` button in the top right corner of the notebook and select the `Python 3` option or the name of your virtual environment.
+6. Click on the `Select Kernel` button in the top right corner of the notebook and select the `Python 3` option or the name of your virtual environment.
 
-6. You can now run code cells in the notebook by clicking on the `Run Cell` button in the top right corner of the notebook or by pressing `Shift + Enter`.
+7. You can now run code cells in the notebook by clicking on the `Run Cell` button in the top right corner of the notebook or by pressing `Shift + Enter`.
 
-7. Enjoy coding!
+8. Enjoy coding!
