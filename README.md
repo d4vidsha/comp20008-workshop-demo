@@ -24,7 +24,7 @@ If you're using a Windows-based system:
 
 ```bash
 python -m venv venv
-venv\Scripts\activate
+venv\scripts\activate
 ```
 
 If you are not using a virtual environment, you can still follow the steps below.
